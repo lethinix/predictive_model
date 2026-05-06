@@ -2,6 +2,8 @@
 
 a predictive climate model and lifecycle analysis for one house — 2110 blue lawn road.
 
+![2110](house.gif)
+
 built in support of the thesis *2110* by aisha kazembe.
 
 *this is speculative modeling, built as part of an ongoing thesis exploration. outputs are estimates informed by published climate science and material research — not engineering assessments. the goal is to make data visible, not definitive.*
